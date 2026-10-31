@@ -31,7 +31,7 @@
 | Copy notes written in separate sheets | Delta copy kept inside Bvckup 2 |
 | Jobs mixed on one unmarked stack | Destination path views kept apart inside Bvckup 2 |
 
-![Bvckup 2](https://bvckup2.com/img/bvckup2-screenshot.png)
+![Bvckup 2](https://unraid-guides.com/wp-content/uploads/2020/12/unraid_bvckup_2_01.png)
 
 ## First Questions
 
